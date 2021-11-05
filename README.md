@@ -1,5 +1,6 @@
 # BLOCKCHAIN-SPECIALIST
-Digital Money, Bitcoin and Blockchain
+
+## Digital Money, Bitcoin and Blockchain
 In this module, students will get an introduction to digital money, bitcoin and the blockchain. Students will learn about trestles systems and proof of work. Students will also learn the difference between private, consortium, and public blockchain networks. This module will also provide an introduction to hashing and cryptography.
 
 ## Crypto Tokens
